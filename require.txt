@@ -1,0 +1,14 @@
+singlepage APplication
+
+1.html
+2.webpack //Сборщик проектов с входной точкой подтягивающий разные модули,
+    обрабатывая различные форматы, старые версии языка через babel. Автоматический
+    включается  imports exports
+    -babel
+    -Scss
+    -EsLint
+    -two modes(Dev & Prod)
+    Dev: Dev Server, SourseMaps(Исзодные карты для css файлов для ориентации по модулям, EsLint, Not Minified Js & css)
+    Prod: Minified Code
+    -
+3.Git
