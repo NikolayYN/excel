@@ -1,3 +1,3 @@
-import './index.scss'
+import './scss/style.scss'
 console.log('Working?')
 
