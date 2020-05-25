@@ -4,6 +4,7 @@
 @import "toolbar";
 @import "formula";
 @import "table";
+@import "dashboard";
 *{
   box-sizing: border-box;
   margin: 0;
@@ -13,8 +14,10 @@
 body{
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
-  color: #888888;
+  color: #494848;
 }
 .excel{
-
+  height: 100%;
+  max-width: 100%;
+  font-size: .8rem;
 }
